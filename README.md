@@ -1,5 +1,5 @@
 # STU
-[Spin Tis Up]
+[Spin This Up]
 
 # Quick and easy local WordPress development on Windows with docker compose
 
