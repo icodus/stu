@@ -1,9 +1,7 @@
 # STU
 [Set Tis Up]
 
-##Setup A Docker Local Wordpress Development Environment 
-
-![Logo](xguard-fb-foregrounds-2.jpg)
+# Setup A Docker Local Wordpress Development Environment 
 
 This is a kind of a fork of the famous [7G Firewall](https://perishablepress.com/7g-firewall/) by Jeff Starr. 
 
