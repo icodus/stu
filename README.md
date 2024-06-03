@@ -1,7 +1,7 @@
 # STU
 [Set Tis Up]
 
-#Setup A Docker Local Wordpress Development Environment 
+##Setup A Docker Local Wordpress Development Environment 
 
 ![Logo](xguard-fb-foregrounds-2.jpg)
 
