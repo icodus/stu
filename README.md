@@ -1,7 +1,7 @@
 # STU
-[Set Tis Up]
+[Spin Tis Up]
 
-# Setup A Docker Local Wordpress Development Environment 
+# Quick and easy local WordPress development on Windows with docker compose
 
 This is a kind of a fork of the famous [7G Firewall](https://perishablepress.com/7g-firewall/) by Jeff Starr. 
 
